@@ -20,8 +20,8 @@ This dashboard helps answer key business questions:
 - Which education backgrounds experience the highest attrition?
 
 ## Dashboard Interaction
--<a href="https://github.com/rajshreepawar59241-cyber/HR-Analytics-Dashboard/blob/main/hr_analytics_db.png">View Dashboard</a>
----
+
+-<a href="https://github.com/rajshreepawar59241-cyber/HR-Analytics-Dashboard/blob/main/hr_analytics_db.png">View Dashboard<\a>
 
 ## 🎯 Project Objectives
 
