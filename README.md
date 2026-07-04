@@ -38,6 +38,9 @@ This dashboard helps answer key business questions:
 - DAX
 - Microsoft Excel
 
+## Dashboard Interaction
+
+
 ---
 
 # 📈 Key KPIs
@@ -143,34 +146,4 @@ This project demonstrates practical skills in Power BI, DAX, Power Query, data c
 
 ---
 
-# 📁 Repository Structure
 
-```
-HR-Analytics-Dashboard
-│
-├── HR Analytics Dashboard.pbix
-├── HR_Analytics.csv
-├── README.md
-└── screenshots
-      └── hr_dashboard.png
-```
-
----
-
-# 👩‍💻 Author
-
-**Rajshree Pawar**
-
-### Skills
-
-- Power BI
-- SQL
-- Python
-- Microsoft Excel
-- DAX
-- Power Query
-- Data Visualization
-
----
-
-⭐ If you like this project, please give it a Star.
