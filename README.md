@@ -40,9 +40,6 @@ This dashboard helps answer key business questions:
 - DAX
 - Microsoft Excel
 
-
-
-
 ---
 
 # 📈 Key KPIs
@@ -124,9 +121,9 @@ This dashboard helps answer key business questions:
 
 ---
 
-# 📷 Dashboard Preview
+# 📷 Dashboard 
+<img width="680" height="342" alt="hr_analytics_db" src="https://github.com/user-attachments/assets/576ca12a-286f-4f74-aaa9-5d9ef2230fe5" />
 
-![HR Dashboard](screenshots/hr_dashboard.png)
 
 ---
 
