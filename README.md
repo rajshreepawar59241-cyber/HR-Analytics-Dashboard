@@ -40,22 +40,6 @@ This dashboard helps answer key business questions:
 
 ---
 
-# 📂 Dataset
-
-The dataset contains HR employee information including:
-
-- Employee ID
-- Department
-- Job Role
-- Age
-- Gender
-- Education
-- Salary
-- Years at Company
-- Attrition Status
-
----
-
 # 📈 Key KPIs
 
 | KPI | Value |
